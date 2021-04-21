@@ -1,0 +1,4 @@
+[[redirects]]
+from="/api/posts/*"
+to="/.netlify/functions/hello"
+status=200
