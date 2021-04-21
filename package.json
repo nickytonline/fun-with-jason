@@ -10,6 +10,7 @@
   "author": "nickytonline <nick@iamdeveloper.com>",
   "license": "MIT",
   "dependencies": {
+    "@netlify/functions": "^0.7.0",
     "node-fetch": "^2.6.1"
   }
 }
