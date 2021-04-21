@@ -4,6 +4,12 @@ We talked Jamstack, serverless, and I got to have some fun and pair with Jason. 
 
 Thanks again for coming on the stream Jason! 😎
 
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=dXr0iJE10tQ">
+        <img src="https://img.youtube.com/vi/dXr0iJE10tQ/0.jpg" alt="Walkthrough Wednesdays Project with Jason Lengstorf"/>
+    </a>
+</p>
+
 ## Installation
 
 * Install the Netlify CLI, `npm install netlify-cli -g`
@@ -20,10 +26,6 @@ Thanks again for coming on the stream Jason! 😎
 ## Links
 
 Deployed Application: https://pensive-raman-d0b535.netlify.app/api/posts/
-
-Get posts of a DEV member: https://pensive-raman-d0b535.netlify.app/api/posts/nickytonline
-
-[![Walkthrough Wednesdays Project with Jason Lengstorf](https://img.youtube.com/vi/dXr0iJE10tQ/0.jpg)](https://www.youtube.com/watch?v=dXr0iJE10tQ)
 
 Links from the stream:
 
