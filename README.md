@@ -10,10 +10,7 @@ Deployed Application: https://pensive-raman-d0b535.netlify.app/api/posts/
 
 Get posts of a DEV member: https://pensive-raman-d0b535.netlify.app/api/posts/nickytonline
 
-<p align="center">
-
 [![Walkthrough Wednesdays Project with Jason Lengstorf](https://img.youtube.com/vi/dXr0iJE10tQ/0.jpg)](https://www.youtube.com/watch?v=dXr0iJE10tQ)
-</p>
 
 Links from the stream:
 
