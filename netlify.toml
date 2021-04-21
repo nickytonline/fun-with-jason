@@ -1,4 +1,4 @@
 [[redirects]]
 from="/api/posts/*"
-to="/.netlify/functions/hello"
+to="/.netlify/functions/posts"
 status=200
