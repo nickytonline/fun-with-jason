@@ -4,6 +4,19 @@ We talked Jamstack, serverless, and I got to have some fun and pair with Jason. 
 
 Thanks again for coming on the stream Jason! 😎
 
+## Installation
+
+* Install the Netlify CLI, `npm install netlify-cli -g`
+* Run `npm install`
+* Run `ntl dev`
+* A browser will open at http://localhost:8888 with a message saying "Not Found". That's OK. 😎
+* Navigate to http://localhost:8888/api/posts. A list of posts from DEV will load.
+
+## Play with the API
+
+* Load posts for a specific user by adding their username to the API call, e.g. http://localhost:8888/api/posts/nickytonline
+* Fork this and have some fun!
+
 ## Links
 
 Deployed Application: https://pensive-raman-d0b535.netlify.app/api/posts/
