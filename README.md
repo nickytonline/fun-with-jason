@@ -1,6 +1,6 @@
 # Walkthrough Wednesdays with Jason Lengstorf: DEV API project using serverless
 
-We talked Jamstack, serverless, and I got to have some fun and pair with Jason. We used Netlify's serverless functions to quickly set up an API to grab DEV posts with the DEV API, i.e. this repository. 😎
+We talked Jamstack, serverless, and I got to have some fun and pair with Jason. We used Netlify's serverless functions to quickly set up an API to grab DEV posts with the DEV API, i.e. this repository.
 
 Thanks again for coming on the stream Jason! 😎
 
@@ -15,13 +15,19 @@ Thanks again for coming on the stream Jason! 😎
 * Install the Netlify CLI, `npm install netlify-cli -g`
 * Run `npm install`
 * Run `ntl dev`
-* A browser will open at http://localhost:8888 with a message saying "Not Found". That's OK. 😎
+* A browser will open at http://localhost:8888 with a message saying "Not Found". That's OK. 😅
 * Navigate to http://localhost:8888/api/posts. A list of posts from DEV will load.
 
 ## Play with the API
 
 * Load posts for a specific user by adding their username to the API call, e.g. http://localhost:8888/api/posts/nickytonline
 * Fork this and have some fun!
+
+## Before and After Calling API with On-demand Builders Enabled
+
+In this example we query the posts for DEV community member [coffeecraftcode](https://dev.to/coffeecraftcode). The initial call comes in at 354ms and the subsequent call comes in at 28ms thanks to on-demand builders. 👷
+
+![Before and after of a network response for our API call displayed in the browser dev tools network panel](https://user-images.githubusercontent.com/833231/115643395-adfcb980-a2ea-11eb-94ad-c975ce410b07.png)
 
 ## Links
 
